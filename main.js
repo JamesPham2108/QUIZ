@@ -1,4 +1,6 @@
-// defining an array of questions (? Is there a better way? It's very annoying if defining like this!)
+
+// this line used for testing
+// dening an array of questions (? Is there a better way? It's very annoying if defining like this!)
 const questions = [
     {
         question: "Mougey Fine Gifts is known for its large range of ___ goods",
