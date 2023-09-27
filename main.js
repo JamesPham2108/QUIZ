@@ -1,5 +1,3 @@
-
-// this line used for testing
 // dening an array of questions (? Is there a better way? It's very annoying if defining like this!)
 const questions = [
     {
